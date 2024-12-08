@@ -4,9 +4,6 @@ As a software engineer in training, my goal is to deepen my understanding of Jav
 
 This software was designed to showcase JavaScript's versatility in creating dynamic and responsive applications. Through this project, I aimed to strengthen my knowledge of game logic, animations, and debugging techniques. It also provided an opportunity to practice using external libraries for enhanced functionality and aesthetics.
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
 [Software Demo Video](https://youtu.be/AoC9CBYgOQA)
 
